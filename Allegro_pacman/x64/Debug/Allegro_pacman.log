@@ -1,0 +1,3 @@
+﻿  ghost.c
+C:\Allegro_pacman_VS2019\Allegro_pacman\Allegro_pacman\Src\ghost.c(287,8): warning C4013: 'printf' undefined; assuming extern returning int
+  Allegro_pacman.vcxproj -> C:\Allegro_pacman_VS2019\Allegro_pacman\x64\Debug\Allegro_pacman.exe
